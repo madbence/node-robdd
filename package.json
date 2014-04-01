@@ -1,0 +1,24 @@
+{
+  "name": "robdd",
+  "version": "0.0.0",
+  "description": "Reduced Ordered Binary Decision Diagrams for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:madbence/node-robdd.git"
+  },
+  "keywords": [
+    "boolean",
+    "robdd",
+    "bdd"
+  ],
+  "author": "Bence Dányi <madbence@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madbence/node-robdd/issues"
+  },
+  "homepage": "https://github.com/madbence/node-robdd"
+}
